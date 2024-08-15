@@ -18,7 +18,7 @@ pip install requirements.txt
 ### Data
 *Data storage*
 
-All the data for experiments are saved in ```../data/```. 
+All the data for experiments are saved in ```../data```. 
 
 ### Reproduction
 
