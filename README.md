@@ -1,5 +1,6 @@
 # Distributed differentially private energy management of virtual power plants
 Codes for "Distributed differentially private energy management of virtual power plants"
+https://doi.org/10.1016/j.epsr.2024.110687
 
 There are three different folders that represent different optimization schemes with the same data.
 
