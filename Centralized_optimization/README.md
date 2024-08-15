@@ -1,14 +1,34 @@
 # Centralized optimization
+*VPP's day-ahead decision-making through centralized coordination conducted by VPP. The results represent the exact solution, serving as the benchmark.*
 
+## Requirements
+*configurations on environments*
 
+python version: 3.8.10
 
-## Conduct centralized optimization to get the exact solution as the benchmark
+The must-have packages can be installed by running
+```
+pip install requirements.txt
+```
 
-### 
+## Experiments
+### Data
+*Data storage*
 
-1. Run "Cen_test.py", results are saved in 'result' folder
+All the data for experiments are saved in ```data/```. 
 
-2. Run "plot_result" to get the figure
+### Reproduction
+
+To reproduce the experiments in the paper, please run
+```
+Cen_test.py
+```
+Results are saved in ```result/``` folder
+
+To get the figure, please run
+```
+plot_result.py
+```
 
 
 
