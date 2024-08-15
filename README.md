@@ -1,4 +1,4 @@
-# Mingyu-Huang
+# Distributed differentially private energy management of virtual power plants
 Codes for "Distributed differentially private energy management of virtual power plants"
 
 There are three different folders that represent different optimization schemes with the same data.
